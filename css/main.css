@@ -1,3 +1,9 @@
+/* ----------- Mobiles ----------- */
+@media (max-width: 767px) {
+	body {
+    background: blue;
+  }
+}
 
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
@@ -8,5 +14,7 @@
 
 /* ----------- Monitors larger than 1200px wide ----------- */
 @media (min-width: 1200px) {
-
+	body {
+    background: yellow;
+  }
 }
