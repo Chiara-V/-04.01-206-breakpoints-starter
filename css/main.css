@@ -1,5 +1,5 @@
 /* ----------- Mobiles ----------- */
-@media (max-width: 767px) {
+@media {
 	body {
     background: blue;
   }
